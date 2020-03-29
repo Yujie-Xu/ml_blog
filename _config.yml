@@ -22,7 +22,7 @@ title: Machine Learning World
 email: yujiexu89@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog, I will share some of my thoughts and ideas in machine learning.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "ml_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
